@@ -73,6 +73,9 @@
     <Content Include="public\js\components\wow.min.js" />
     <Content Include="public\js\layout.js" />
     <Content Include="public\js\layout.min.js" />
+    <Content Include="public\Page1.html">
+      <SubType>Code</SubType>
+    </Content>
     <Content Include="public\sass\base\_base.scss" />
     <Content Include="public\sass\components\_blockquote.scss" />
     <Content Include="public\sass\components\_button.scss" />
