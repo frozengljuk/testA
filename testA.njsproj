@@ -35,6 +35,9 @@
     <Content Include="public\css\layout-rtl.min.css" />
     <Content Include="public\css\layout.css" />
     <Content Include="public\css\layout.min.css" />
+    <Content Include="public\dev-tools\gulpfile.js" />
+    <Content Include="public\dev-tools\index.js" />
+    <Content Include="public\dev-tools\package.json" />
     <Content Include="public\img\1920x1080\01.jpg" />
     <Content Include="public\img\1920x1080\02.jpg" />
     <Content Include="public\img\397x300\01.jpg" />
@@ -140,6 +143,7 @@
   <ItemGroup>
     <Folder Include="public\" />
     <Folder Include="public\css\" />
+    <Folder Include="public\dev-tools\" />
     <Folder Include="public\img\" />
     <Folder Include="public\img\1920x1080\" />
     <Folder Include="public\img\397x300\" />
